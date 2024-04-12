@@ -1,6 +1,6 @@
 <?php
 
-define("BASE_URL", "http://boundlesszeus.github.io");
+define("BASE_URL", "https://boundlesszeus.github.io");
 
 $allowedUsers = [
     "76561198097973776" => true, // buyer of the addon
