@@ -1,6 +1,6 @@
 <?php
 
-define("BASE_URL", "http://boundlesszeus.github.io/");
+define("BASE_URL", "https://8080-cs-a46ce489-cb7d-4c85-b2f2-317e2c162489.cs-us-central1-pits.cloudshell.dev/?authuser=0&redirectedPreviously=true");
 
 $allowedUsers = [
     "76561198097973776" => true, // buyer of the addon
